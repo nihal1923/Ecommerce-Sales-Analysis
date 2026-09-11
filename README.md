@@ -62,7 +62,7 @@ The project demonstrates a complete data analytics workflow, including data clea
 
 ### Dashboard Overview
 
-![Dashboard Overview](dashboard_images/dashboard_overview.png)
+![Dashboard Overview](dashboard_images/Ecommerce_Sales_Dashboard_Updated.png)
 
 ### Dashboard with Filters Applied
 
